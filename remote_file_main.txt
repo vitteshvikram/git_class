@@ -1,2 +1,2 @@
 this is my first remote file.
-changed something from local
+Removed the last line. This is the new line
